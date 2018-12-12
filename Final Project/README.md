@@ -1,0 +1,4 @@
+Steps£º
+1. Run bootstrap.py to get the data
+2. Select the model and run train.py (you can change the parameters if you need)
+3. Select the model and run predict.py and Eval.py to get result and evaluate the results
